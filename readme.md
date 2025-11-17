@@ -61,12 +61,6 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.app**](https://portfolio-umang-07.vercel.app/) to see them live!
 
-| Project Name | Stack | Description |
-| :--- | :--- | :--- |
-| 🤖 **AI-Summarizer** | MERN Stack | An application that summarizes long articles or texts using AI. |
-| 👟 **Nike Website** | Frontend | A modern, responsive clone of the Nike website landing page. |
-| 🍽️ **Gericht Restaurant** | Frontend | A sleek and beautiful landing page for a fine-dining restaurant. |
-
 ---
 
 <div align="center">
