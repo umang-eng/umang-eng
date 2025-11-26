@@ -38,10 +38,6 @@ I am a web developer with a passion for creating beautiful and functional websit
   
 </div>
 
----
-
-##  My GitHub Activity
-
 <div align="center">
 
 </div>
