@@ -1,11 +1,11 @@
-<svg viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Umang Bhut">
+<svg viewBox="0 0 1000 980" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects by Umang Bhut">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
-    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s}
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
     .head { font-size: 15px; fill: var(--bone); }
     .copy { font-size: 14px; fill: var(--muted); }
     .meta { font-size: 10px; fill: var(--accent); letter-spacing: 2.5px; }
@@ -41,6 +41,38 @@
       <text class="mono copy" x="48" y="96">AI-powered platform helping startups assess and improve cost, roadmap, and structure.</text>
       <text class="mono copy" x="48" y="118">Designed a 'Startup DNA' module to profile a startup's core strengths and gaps for founders.</text>
       <text class="mono meta" x="48" y="152">PYTHON · NLP · NEXTJS</text>
+    </g>
+  </g>
+
+  <g transform="translate(0, 500)">
+    <g class="rise a4">
+      <text class="mono meta" x="48" y="42">004</text>
+      <text class="mono head" x="48" y="70">Python-Driven Alert Automation &amp; Threat Intel</text>
+      <text class="mono copy" x="48" y="96">Developed Python automation scripts to parse large volumes of JSON security logs.</text>
+      <text class="mono copy" x="48" y="118">Extracted critical indicators of compromise (IoCs) to streamline the alert triage process.</text>
+      <text class="mono copy" x="48" y="140">Integrated threat intelligence APIs like VirusTotal to automatically verify reputation of IPs.</text>
+      <text class="mono meta" x="48" y="174">PYTHON · AUTOMATION · THREAT INTEL · API</text>
+    </g>
+  </g>
+
+  <g transform="translate(0, 660)">
+    <g class="rise a5">
+      <text class="mono meta" x="48" y="42">005</text>
+      <text class="mono head" x="48" y="70">Network Traffic &amp; Phishing Analysis</text>
+      <text class="mono copy" x="48" y="96">Captured and analyzed raw network traffic using Wireshark to establish behavioral baselines.</text>
+      <text class="mono copy" x="48" y="118">Identified anomalies such as non-standard ports or potential data exfiltration.</text>
+      <text class="mono copy" x="48" y="140">Investigated malicious email headers and built custom detection rules for social engineering tactics.</text>
+      <text class="mono meta" x="48" y="174">WIRESHARK · NETWORK ANALYSIS · PHISHING DETECTION</text>
+    </g>
+  </g>
+
+  <g transform="translate(0, 820)">
+    <g class="rise a6">
+      <text class="mono meta" x="48" y="42">006</text>
+      <text class="mono head" x="48" y="70">Secure Network Architecture &amp; Tor Hidden Service Simulation</text>
+      <text class="mono copy" x="48" y="96">Configured and deployed a localized Tor hidden service within a Kali Linux virtual machine.</text>
+      <text class="mono copy" x="48" y="118">Analyzed secure routing protocols, network traffic obfuscation, and defensive mechanics.</text>
+      <text class="mono meta" x="48" y="152">KALI LINUX · TOR · VIRTUALIZATION · SECURITY PROTOCOLS</text>
     </g>
   </g>
 </svg>

@@ -31,7 +31,8 @@
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Umang Bhut</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Aspiring Data Scientist / AI-ML Engineer — Ahmedabad, India.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Aspiring Data Scientist / AI-ML Engineer</text>
+    <text fill="var(--muted)" class="mono" x="48" y="238" font-size="19">Aspiring Cybersecurity Analyst | SOC Engineer — Ahmedabad, India.</text>
   </g>
 
   <g class="fade a4">
